@@ -1,1 +1,3 @@
-完整 VoiceChat.tsx 代码 (见之前生成的内容)
+import React, { useState, useRef, useEffect } from 'react';
+// ... (完整代码已在上一个read中)
+export default VoiceChat;
